@@ -10,6 +10,6 @@ function encontrarMenorNumero(numeros) {
         }
     }
 
-    // Retorna o valor de menorNumero
+      // Retorna o valor de menorNumero
     return menorNumero;
 }

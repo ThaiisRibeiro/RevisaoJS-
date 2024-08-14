@@ -1,5 +1,5 @@
 function encontrarMaiorNumero(numeros) {
-    // Inicializa a variável maiorNumero com o primeiro elemento do array
+    //Inicializa a variável maiorNumero com o primeiro elemento do array
     let maiorNumero = numeros[0];
 
     // Percorre o array começando do segundo elemento (índice 1)
@@ -10,6 +10,6 @@ function encontrarMaiorNumero(numeros) {
         }
     }
 
-    // Retorna o valor de maiorNumero
+     // Retorna o valor de maiorNumero
     return maiorNumero;
 }
